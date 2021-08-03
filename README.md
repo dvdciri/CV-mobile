@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there! 👋🏻
 Welcome to my mobile-friendly CV app. You can download it from the google play store
 TBC
 
