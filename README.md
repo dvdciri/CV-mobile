@@ -15,11 +15,11 @@ The concepts and mockups have been prepared using Figam, and the overall design 
 
 The main navigation component is an implementation of the <a href="https://material.io/components/backdrop">Backdrop component</a>, the idea was to somehow provide a way to filter the main content of the page using the backdrop, by selecting which part of the Resume the user wants to see.
 
-<img src="https://raw.githubusercontent.com/dvdciri/Mobile-CV-App/main/images/mocks.png" />
+<img width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/About%20me%20collapsed.png" /> <img align="top" width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/About%20me%20extended.png" /> <img align="top" width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/Professional%20Experience.png" /> <img align="top" width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/Details%20screen.png" /> <img width="200" align="top" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/Education.png" /> <img align="top" width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/Skills.png" /> <img align="top" width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/Personal%20Projects.png" />
 
 Obviously there's also a Dark Mode version of the designs 🖤
 
-<img src="https://raw.githubusercontent.com/dvdciri/Mobile-CV-App/main/images/dark-mocks.png" />
+<img align="top" width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/About%20me%20collapsed%20(DARK).png" /> <img align="top" width="200" src="https://github.com/dvdciri/Mobile-CV-App/blob/main/images/Professional%20Experience%20(DARK).png" />
 
 ## 📱 Technologies used
 TBC
