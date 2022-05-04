@@ -1,5 +1,7 @@
 # 👋 Hello there!
-Welcome to my mobile-friendly CV app. You can download it from the google play store below 👇🏼
+Welcome to my mobile-friendly CV app.
+
+**NB. This project has been designed and architectured but not yet built. You can check out the idea and the designs below while i'm working on the implementation 👀🛠️📲**
 
 <a target="_blank" href="TBC"><img width="200" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
 
